@@ -1,6 +1,6 @@
 /* div p{
     color: red;
-    font-size: */
+    /* font-size: */
   li{
     color:pink;
     font-size: 15px;
@@ -19,4 +19,4 @@ p+p{
 }
 p~p{
     color:blueviolet
-}
+} */
